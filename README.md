@@ -11,7 +11,7 @@
 `chess-ai` is a simple chess AI in JavaScript. 
 
 
-<!-- PROJECT LOGO -->
+<!-- yPROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/shie-ld/chess-ai">
