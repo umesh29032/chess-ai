@@ -14,7 +14,7 @@
 <!-- yPROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/shie-ld/chess-ai">
+  <a href="https://github.com/umesh29032/chess-ai">
     <img src="img/alpha_beta.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -24,9 +24,9 @@
     `chess-ai` is a simple chess AI in JavaScript. 
     <br />
     <br />
-    <a href="https://github.com/shie-ld/chess-ai/issues">Report Bug</a>
+    <a href="https://github.com/umesh29032/chess-ai/issues">Report Bug</a>
     ·
-    <a href="https://github.com/shie-ld/chess-ai/issues">Request Feature</a>
+    <a href="https://github.com/umesh29032/chess-ai/issues">Request Feature</a>
   </p>
 </p>
 
@@ -68,7 +68,7 @@ Since this is a `backtracking based algorithm`, it tries all possible moves, the
 
 <!-- GETTING STARTED -->
 ## How to Play?
-1. Clone this repository as `git clone https://github.com/shie-ld/chess-ai.git`.
+1. Clone this repository as `git clone https://github.com/umesh29032/chess-ai.git`.
 
 2. Change to the required directory by typing `cd chess-ai` in your terminal.
 
@@ -157,7 +157,7 @@ To illustrate this with a real-life example, suppose somebody is playing chess, 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/shie-ld/chess-ai/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/umesh29032/chess-ai/issues) for a list of proposed features (and known issues).
 
 
 
@@ -184,9 +184,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-dixitrdreshofficial@gmail.com
 
-Project Link: [https://github.com/shie-ld/chess-ai](https://github.com/shie-ld/chess-ai)
+Project Link: [https://github.com/umesh29032/chess-ai](https://github.com/umesh29032/chess-ai)
 
 
 
@@ -194,16 +193,16 @@ Project Link: [https://github.com/shie-ld/chess-ai](https://github.com/shie-ld/c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/shie-ld/chess-ai.svg?style=flat-square
-[contributors-url]: https://github.com/shie-ld/chess-ai/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/shie-ld/chess-ai.svg?style=flat-square
-[forks-url]: https://github.com/shie-ld/chess-ai/network/members
-[stars-shield]: https://img.shields.io/github/stars/shie-ld/chess-ai.svg?style=flat-square
-[stars-url]: https://github.com/shie-ld/chess-ai/stargazers
-[issues-shield]: https://img.shields.io/github/issues/shie-ld/chess-ai.svg?style=flat-square
-[issues-url]: https://github.com/shie-ld/chess-ai/issues
-[license-shield]: https://img.shields.io/github/license/shie-ld/chess-ai.svg?style=flat-square
-[license-url]: https://github.com/shie-ld/chess-ai/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/umesh29032/chess-ai.svg?style=flat-square
+[contributors-url]: https://github.com/umesh29032/chess-ai/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/umesh29032/chess-ai.svg?style=flat-square
+[forks-url]: https://github.com/umesh29032/chess-ai/network/members
+[stars-shield]: https://img.shields.io/github/stars/umesh29032/chess-ai.svg?style=flat-square
+[stars-url]: https://github.com/umesh29032/chess-ai/stargazers
+[issues-shield]: https://img.shields.io/github/issues/umesh29032/chess-ai.svg?style=flat-square
+[issues-url]: https://github.com/umesh29032/chess-ai/issues
+[license-shield]: https://img.shields.io/github/license/umesh29032/chess-ai.svg?style=flat-square
+[license-url]: https://github.com/umesh29032/chess-ai/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/rudresh-dixit-11a15618a/
 
